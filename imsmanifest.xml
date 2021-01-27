@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6PeSR6kw9ds_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">VAD Course</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">For testing the program</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="VAD_Course_ORG">
+    <organization identifier="VAD_Course_ORG">
+      <title>VAD Course</title>
+      <item identifier="test_course_SCO" isvisible="true" identifierref="__6PeSR6kw9ds_course_id_RES">
+        <title>VAD Course</title>
+        <adlcp:masteryscore>50</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6PeSR6kw9ds_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5bRr9LyiQOV_80_DX746_DY746.jpg" />
+      <file href="mobile/5bRr9LyiQOV_80_DX746_DY746_CX373_CY135.jpg" />
+      <file href="story_content/5cGLWkTfXI9_80_DX250_DY250.swf" />
+      <file href="mobile/5cGLWkTfXI9_80_DX250_DY250_CX187_CY119.png" />
+      <file href="story_content/video_6FujQK5JgLM_22_48_176x100.mp4" />
+      <file href="mobile/video_6FujQK5JgLM_22_48_176x100.jpg" />
+      <file href="story_content/5dZnY2ioOUz67BasmYkMaW{Width=700, Height=520}Light_80_DX1400_DY1400.jpg" />
+      <file href="mobile/5dZnY2ioOUz67BasmYkMaW{Width=700, Height=520}Light_80_DX1400_DY1400_CX700_CY520.jpg" />
+      <file href="story_content/5s2JfrdGxsF_80_DX1200_DY1200.jpg" />
+      <file href="mobile/5s2JfrdGxsF_80_DX1200_DY1200_CX600_CY427.jpg" />
+      <file href="story_content/5v84jxxSPVu_80_DX304_DY304.jpg" />
+      <file href="mobile/5v84jxxSPVu_80_DX304_DY304_CX200_CY200.jpg" />
+      <file href="story_content/6WkXinEZPJj_80_DX320_DY320.swf" />
+      <file href="mobile/6WkXinEZPJj_80_DX320_DY320_CX197_CY93.png" />
+      <file href="story_content/6H5tu1fhzew_80_DX200_DY200.swf" />
+      <file href="mobile/6H5tu1fhzew_80_DX200_DY200_CX150_CY144.png" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.json" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6jqddNdR5Zz.swf" />
+      <file href="story_content/slides/5fSVJZVRPXD.swf" />
+      <file href="story_content/slides/6EgC9hc5wHM.swf" />
+      <file href="story_content/slides/6NfA3YFACW2.swf" />
+      <file href="story_content/slides/6q5BMGpLqC7.swf" />
+      <file href="story_content/slides/6egs4dv21d4.swf" />
+      <file href="story_content/slides/5fChJVIYOSN.swf" />
+      <file href="story_content/slides/66ko7IlPgOR.swf" />
+      <file href="story_content/slides/6N24fkbSs0m.swf" />
+      <file href="story_content/slides/5fvQzyEHDdR.swf" />
+      <file href="story_content/slides/6L0GwPTMOSm.swf" />
+      <file href="story_content/slides/6VxzO6IeHFD.swf" />
+      <file href="story_content/slides/5snW6MU7fdr.swf" />
+      <file href="story_content/slides/6qf3HP2UCtv.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fChJVIYOSN.js" />
+      <file href="html5/data/js/5fSVJZVRPXD.js" />
+      <file href="html5/data/js/5fvQzyEHDdR.js" />
+      <file href="html5/data/js/5snW6MU7fdr.js" />
+      <file href="html5/data/js/66ko7IlPgOR.js" />
+      <file href="html5/data/js/6EgC9hc5wHM.js" />
+      <file href="html5/data/js/6egs4dv21d4.js" />
+      <file href="html5/data/js/6jqddNdR5Zz.js" />
+      <file href="html5/data/js/6L0GwPTMOSm.js" />
+      <file href="html5/data/js/6N24fkbSs0m.js" />
+      <file href="html5/data/js/6NfA3YFACW2.js" />
+      <file href="html5/data/js/6q5BMGpLqC7.js" />
+      <file href="html5/data/js/6qf3HP2UCtv.js" />
+      <file href="html5/data/js/6VxzO6IeHFD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
